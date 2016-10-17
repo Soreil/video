@@ -19,7 +19,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/bakape/video/avio"
+	"github.com/Soreil/video/avio"
 )
 
 // Decoder wraps around internal state, all methods are called on this.
